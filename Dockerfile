@@ -7,7 +7,7 @@ MAINTAINER matt@motionmobs.com
 # --- Install required tools
 
 RUN apt-get update -qq \
- && apt-get install -y openjdk-8-jdk wget expect git curl unzip lcov git-core emacs-nox screen libstdc++6 \
+ && apt-get install -y openjdk-8-jdk wget expect git curl unzip lcov git-core emacs-nox screen libstdc++6 lib32stdc++6 \
  && apt-get clean
 
 # ------------------------------------------------------
