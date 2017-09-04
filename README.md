@@ -10,3 +10,14 @@ This image was built to be used for just about anything flutter + android relate
 [docker-android-sdk](https://github.com/mindrunner/docker-android-sdk)
 and
 [flutter_lcov_docker](https://github.com/brianegan/flutter_lcov_docker)
+
+
+*********
+#### Fun reading:
+
+[SO post on CLI interaction with Android emulator](https://stackoverflow.com/questions/4974568/how-do-i-launch-the-android-emulator-from-the-command-line#4974695)
+
+[Android docs on emulator](https://developer.android.com/studio/run/emulator-commandline.html#startup-options)
+
+[Android docs on cli emulator options](https://developer.android.com/studio/run/emulator-console.html)
+
